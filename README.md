@@ -18,5 +18,5 @@ For more resources—including production tips and API reference—check out the
 
 ## Featured Recipes
 
-* [Automating Search-Based Report Generation with a Multi-Agent AI Pipeline](https://inference-docs.cerebras.ai/cookbook/search-agent)
-* [Implementing Gist Memory: Summarizing and Searching Long Documents with a ReadAgent](https://inference-docs.cerebras.ai/cookbook/gist-memory)
+* [Automating Search-Based Report Generation with a Multi-Agent AI Pipeline](https://inference-docs.cerebras.ai/cookbook/agents/search-agent)
+* [Implementing Gist Memory: Summarizing and Searching Long Documents with a ReadAgent](https://inference-docs.cerebras.ai/cookbook/agents/gist-memory)
